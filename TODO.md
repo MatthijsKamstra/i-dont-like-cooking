@@ -4,7 +4,7 @@
 - [x] inschrijven chatGPT
 - [ ] write via chatGPT
 - [ ] add receipts I like
-- [ ] schrijf in nl
+- [ ] write `nl`
 - [ ] choose body font
 - [ ] choose heading font
 - [ ] use midjourney to create layout
@@ -14,5 +14,5 @@
 - [ ] create cover
 - [ ] create back
 - [ ] proof read
-- [ ] convert en
+- [ ] convert `en`
 - [ ] send to printer
