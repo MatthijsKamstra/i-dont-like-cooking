@@ -2,6 +2,17 @@
 
 - [x] create repo on github
 - [x] inschrijven chatGPT
+- [x] 3 receipten
+	- [x] lasagne
+	- [x] burritos
+	- [x] chille con carne
+	- [x] roti
+	- [x] pannekoek
+- [ ] analyse haxe over files
+- [ ] icons voor ingredienten
+- [ ] icons voor handelingen
+- [ ] icons voor tijd
+- [ ] icons voor "keukengerei" utencils
 - [ ] write via chatGPT
 - [ ] add receipts I like
 - [ ] write `nl`
@@ -16,3 +27,17 @@
 - [ ] proof read
 - [ ] convert `en`
 - [ ] send to printer
+
+## receipts
+
+- [ ] Lasagna pan/oven
+- [ ] Pasta different styles
+- [ ] Chille Con carne
+- [ ] burritos (3 pp 2 Petra)
+- [ ] Pannekoek
+- [ ] pasta pesto
+- [ ] Wrap
+- [ ] Pasta met smacks
+- [ ] Roti
+- [ ] oven Pasta
+- [ ] Bami
