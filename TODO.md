@@ -8,6 +8,7 @@
 	- [x] chille con carne
 	- [x] roti
 	- [x] pannekoek
+	- [ ] eenpans gerecht pasta bolognese
 - [ ] analyse haxe over files
 - [ ] icons voor ingredienten
 - [ ] icons voor handelingen
@@ -41,3 +42,4 @@
 - [ ] Roti
 - [ ] oven Pasta
 - [ ] Bami
+- [ ] eenpans gerecht pasta bolognese
