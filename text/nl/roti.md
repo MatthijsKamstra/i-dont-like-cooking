@@ -1,27 +1,35 @@
-Hier is een recept voor roti met Nederlandse ingredienten:
+# Surinaamse roti met kerrie en aardappelen
 
-Ingrediënten (voor 4 roti's):
+Voor 8 rotis
 
-300 gram bloem
-1 theelepel zout
-1 theelepel bakpoeder
-200 ml water
-1 ei, losgeklopt
-1 ui, fijngehakt
-1 teentje knoflook, fijngehakt
-400 gram gehakt
-1 paprika, in blokjes
-1 blikje kidneybonen, uitgelekt
-1 theelepel paprikapoeder
-1 theelepel komijnpoeder
-2 eetlepels olie
-Bereidingswijze:
+## Ingrediënten (voor 8 roti):
 
-Meng de bloem, het zout en het bakpoeder in een kom. Voeg het water en het ei toe en kneed tot een deegbal. Laat het deeg 30 minuten rusten.
-Verhit de olie in een pan en bak het gehakt rul. Voeg de ui, knoflook, paprika, kidneybonen, paprikapoeder en komijnpoeder toe en bak nog een paar minuten mee.
-Verdeel het deeg in 4 gelijke porties en rol elke portie uit tot een ronde lap van ongeveer 20 centimeter doorsnede.
-Verdeel het gehaktmengsel over de roti's en vouw de roti's dicht.
-Verhit wat olie in een pan en bak de roti's aan beide kanten goudbruin.
+- 500 gram bloem
+- 250 ml water
+- 1 eetlepel olie
+- 1 snufje zout
+- 500 gram aardappelen, geschild en in blokjes
+- 1 ui, fijngehakt
+- 1 teentje knoflook, fijngehakt
+- 2 eetlepels kerriepoeder
+- 250 ml water
+- 1 bouillonblokje (bijvoorbeeld kippenbouillon)
+- 1 theelepel tijm
+- 1 theelepel oregano
+- Zout en peper naar smaak
+
+## Bereidingswijze:
+
+1. Meng de bloem, water, olie en zout in een kom tot een zacht deeg. Kneed het deeg 10 minuten totdat het soepel is. Verdeel het deeg in 8 gelijke stukken en rol elk stuk deeg uit tot een dunne ronde roti.
+2. Verhit de olie in een pan en bak de ui, knoflook, aardappelblokjes en kerriepoeder aan totdat de aardappelen zacht zijn. Voeg het water, bouillonblokje, tijm, oregano, zout en peper toe en breng aan de kook. Laat het geheel 15 minuten zachtjes koken.
+3. Verhit een koekenpan op middelhoog vuur en bak de roti's aan beide kanten goudbruin. Verdeel het aardappelmengsel over de roti's en rol ze op.
+
 Eet smakelijk!
 
-Tip: Als je wilt, kun je ook andere groenten toevoegen aan het gehaktmengsel, zoals gesneden champignons, gesneden paprika, gesneden witlof of gesneden broccoli. Je kunt ook andere kruiden gebruiken, zoals basilicum, peterselie of rozemarijn. Als je geen gehakt wilt gebruiken, kun je ook kip of vegetarisch gehakt gebruiken. Als je de roti's wat scherper wilt maken, kun je ook nog wat fijngehakte pepers toevoegen aan het gehaktmengsel.
+## Tips:
+
+- Als je wilt, kun je ook nog andere groenten toevoegen aan het aardappelmengsel, zoals gesneden paprika, gesneden wortel, gesneden courgette of gesneden champignons.
+- Je kunt ook andere sauzen gebruiken, zoals chutney of yoghurt.
+- Als je geen aardappelen wilt gebruiken, kun je ook andere groenten gebruiken, zoals bloemkool, broccoli, spruitjes of erwten.
+- Als je de roti's wat zoeter wilt maken, kun je ook nog wat suiker of honing toevoegen aan het aardappelmengsel.
+- Als je de roti's wat pittiger wilt maken, kun je ook nog wat extra kerriepoeder of chilipoeder toevoegen aan het aardappelmengsel.
