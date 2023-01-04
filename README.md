@@ -52,6 +52,18 @@ Don't understand me wrong, I like to eat but I'm a "Food is Energy"-type of guy.
 
 lists of easy/cheap food receipies
 
+- https://www.ah.nl/allerhande/recepten/snelle-recepten?page=2
+- https://www.lekkeretenmetlinda.nl/eenpansgerecht-pasta-bolognese/
+- https://www.buzzfeed.com/hannahloewentheil/easy-20-minute-recipes
+- https://www.leukerecepten.nl/10-x-snelle-recepten/
+- https://www.eefkooktzo.nl/10-x-snelle-recepten/
+- https://www.leukerecepten.nl/top-10-recepten/
+- https://familieoverdekook.nl/20-best-bekeken-recepten-van-2019/
+- https://www.keukenliefde.nl/top-25-populairste-recepten-van-2018/
+- https://www.bbcgoodfood.com/recipes/collection/under-20-minutes-recipes
+- https://www.delish.com/cooking/recipe-ideas/g2643/twenty-minute-meals-recipes/
+- https://chickslovefood.com/20x-diner-in-20-minuten-klaar/
+
 ## File Structure
 
 - design (folder for all the designs)
