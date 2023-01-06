@@ -10,4 +10,6 @@ class Folder {
 	public static var TEXT:String;
 
 	public static var DOCS:String;
+
+	public static var BIN:String;
 }
