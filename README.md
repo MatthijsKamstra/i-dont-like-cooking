@@ -44,6 +44,27 @@ Don't understand me wrong, I like to eat but I'm a "Food is Energy"-type of guy.
 - scribus
 - gimp
 
+```bash
+# install
+brew install --cask gimp # 👈 gimp: 2.10.32
+brew install --cask inkscape # 👈 inkscape: 1.2.1
+brew install --cask scribus # 👈 scribus: 1.5.8
+```
+
+## Fonts
+
+
+I never use serif fonts so I will choose this for the titles/heading
+
+- Playfair Display & Lato
+- Playfair Display & Source Sans Pro
+- Philosopher & Mulish
+- Kreon & Ubuntu
+- Libre Baskerville & Raleway
+- Merriweather & Source Sans Pro
+
+
+
 ## resources
 
 - https://www.istockphoto.com/nl/vector/het-pictogram-van-de-kokende-lijn-reeks-keukengereedschap-pan-pot-diner-werktuig-gm1295818940-389427525
