@@ -3,12 +3,12 @@
 - [x] create repo on github
 - [x] inschrijven chatGPT
 - [x] 3 receipten
-	- [x] lasagne
-	- [x] burritos
-	- [x] chille con carne
-	- [x] roti
-	- [x] pannekoek
-	- [ ] eenpans gerecht pasta bolognese
+  - [x] lasagne
+  - [x] burritos
+  - [x] chille con carne
+  - [x] roti
+  - [x] pannekoek
+  - [ ] eenpans gerecht pasta bolognese
 - [ ] analyse haxe over files
 - [ ] icons voor ingredienten
 - [ ] icons voor handelingen
@@ -28,6 +28,9 @@
 - [ ] proof read
 - [ ] convert `en`
 - [ ] send to printer
+- [ ] search for photos and prices on jumbo.com (dutch supermarket)
+  - [ ] https://www.jumbo.com/zoeken/?searchTerms=lasagnevellen
+  - [ ] https://www.jumbo.com/producten/?searchType=keyword&searchTerms=lasagnebladen&offSet=0&sort=price%20asc
 
 ## receipts
 
