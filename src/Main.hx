@@ -1,3 +1,4 @@
+import scribus.Scribus;
 import utils.ChapterName;
 import utils.SaveFile;
 
@@ -28,6 +29,8 @@ class Main {
 
 		// start convert
 		updateDocs();
+		// create Scibus document
+		createScribus();
 
 		// check time again
 		endTime = Date.now();
@@ -42,7 +45,7 @@ class Main {
 		Folder.ICONS = Path.join([Sys.getCwd(), 'design/assets/icons']);
 		Folder.TEXT = Path.join([Sys.getCwd(), 'text']);
 		Folder.TEXT_NL = Path.join([Sys.getCwd(), 'text/nl']);
-		// Folder.BIN = Path.join([Sys.getCwd(), 'bin']);
+		Folder.BIN = Path.join([Sys.getCwd(), 'bin']);
 		// Folder.DIST = Path.join([Sys.getCwd(), 'dist']);
 		// Folder.ASSETS = Path.join([Sys.getCwd(), 'assets']);
 
@@ -51,6 +54,7 @@ class Main {
 		info('Folder.ICONS: ${Folder.ICONS}');
 		info('Folder.TEXT: ${Folder.TEXT}');
 		info('Folder.TEXT_NL: ${Folder.TEXT_NL}');
+		info('Folder.BIN: ${Folder.BIN}');
 	}
 
 	function setupProject() {
@@ -96,6 +100,16 @@ class Main {
 		}
 
 		SaveFile.out(Folder.DOCS + '/_sidebar.md', md);
+	}
+
+	function createScribus() {
+		var type = 'a4';
+		var scribus = new Scribus();
+
+		scribus.addColorRGB('test_mck_rgb', 0, 10, 20);
+		scribus.addColorCMYK('test_mck_cmyk', 0, 10, 20, 30);
+
+		SaveFile.out(Folder.BIN + '/_gen_scribus_${type}.sla', scribus.xml());
 	}
 
 	/**
