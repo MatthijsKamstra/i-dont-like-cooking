@@ -2,7 +2,7 @@
 
 Aantal personen: 6
 
-## tools
+## Keukengerei:
 
 - oven
 - ovenschaal
