@@ -28,9 +28,14 @@ class Main {
 		info('ignoreArr: $ignoreArr', 1);
 
 		// start convert
+		// update the docs, perhaps for later use
 		updateDocs();
-		// create Scibus document
+		// create Scibus document, with adjustments
 		createScribus();
+		// create a4 document with fonts embedding (.svg and .pdf)
+		createFontFile();
+		// analyze the receipts
+		analyzeReceipts();
 
 		// check time again
 		endTime = Date.now();
@@ -103,6 +108,8 @@ class Main {
 	}
 
 	function createScribus() {
+		wip('createScribus');
+
 		var type = 'a4';
 		var scribus = new Scribus();
 
@@ -112,11 +119,83 @@ class Main {
 		SaveFile.out(Folder.BIN + '/_gen_scribus_${type}.sla', scribus.xml());
 	}
 
+	function createFontFile() {
+		wip('createFontFile');
+	}
+
+	function analyzeReceipts() {
+		wip('analyzeReceipts();');
+		// get all files into docs
+		for (i in 0...fileArr.length) {
+			var file = fileArr[i];
+
+			// check if file is .md file
+			if (file.indexOf('.md') == -1)
+				continue;
+
+			// create folders
+			var path = Path.withoutExtension(file).split(Folder.ROOT_FOLDER)[1];
+			var f = '${Folder.BIN}/${path}';
+			Sys.command('mkdir -p ${f}');
+			warn(path);
+
+			// read the file
+			var content = sys.io.File.getContent(file);
+			var linesArr = content.split('\n');
+			warn(linesArr.length);
+
+			var _misc = '';
+			var _utensils = '';
+			var _ingredients = '';
+			var _preparation = '';
+			var _tips = '';
+
+			var temp = ReceiptType.Misc;
+			for (i in 0...linesArr.length) {
+				var line = linesArr[i];
+
+				// log(line);
+				// log(line.toLowerCase().contains('gerei'));
+
+				if (line.toLowerCase().contains('## keuken'))
+					temp = ReceiptType.Utensils;
+				if (line.toLowerCase().contains('## ingredi'))
+					temp = ReceiptType.Ingredients;
+				if (line.toLowerCase().contains('## bereidings'))
+					temp = ReceiptType.Preparation;
+				if (line.toLowerCase().contains('## tip'))
+					temp = ReceiptType.Tips;
+
+				switch (temp) {
+					case ReceiptType.Misc:
+						_misc += '${line}\n';
+					case ReceiptType.Utensils:
+						_utensils += '${line}\n';
+					case ReceiptType.Ingredients:
+						_ingredients += '${line}\n';
+					case ReceiptType.Preparation:
+						_preparation += '${line}\n';
+					case ReceiptType.Tips:
+						_tips += '${line}\n';
+					default:
+						trace("case '" + temp + "': trace ('" + temp + "');");
+				}
+			}
+
+			// save content
+			SaveFile.out(f + '/misc.md', _misc.trim());
+			SaveFile.out(f + '/utensils.md', _utensils.trim());
+			SaveFile.out(f + '/ingredients.md', _ingredients.trim());
+			SaveFile.out(f + '/preparation.md', _preparation.trim());
+			SaveFile.out(f + '/tips.md', _tips.trim());
+		}
+	}
+
 	/**
 	 * [Description]
 	 * @param directory
 	 */
-	function recursiveLoop(directory:String = "path/to/") {
+	function recursiveLoop(directory:String) {
 		if (sys.FileSystem.exists(directory)) {
 			// log("Directory found: " + directory);
 			for (file in sys.FileSystem.readDirectory(directory)) {
@@ -143,4 +222,12 @@ class Main {
 	static public function main() {
 		var app = new Main();
 	}
+}
+
+enum ReceiptType {
+	Misc;
+	Utensils;
+	Ingredients;
+	Preparation;
+	Tips;
 }
