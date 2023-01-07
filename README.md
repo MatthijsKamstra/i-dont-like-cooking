@@ -64,6 +64,16 @@ I never use serif fonts so I will choose this for the titles/heading
 - Libre Baskerville & Raleway
 - Merriweather & Source Sans Pro
 
+## Convert svg to pdf
+
+using Inkscape to convert svg 2 pdf
+
+```bash
+# inkscape mygraph.svg --export-pdf=mygraph.pdf # Warning: Option --export-pdf= is deprecated
+# convert svg to pdf
+inkscape font_lato.svg --export-filename=_test_lato.pdf
+```
+
 ## resources
 
 - https://www.istockphoto.com/nl/vector/het-pictogram-van-de-kokende-lijn-reeks-keukengereedschap-pan-pot-diner-werktuig-gm1295818940-389427525
