@@ -40,19 +40,20 @@ Don't understand me wrong, I like to eat but I'm a "Food is Energy"-type of guy.
 
 ## Tools
 
-- inkscape
-- scribus
-- gimp
+- [Inkscape](https://inkscape.org/)
+- [Scribus](https://www.scribus.net/)
+- [Gimp](https://www.gimp.org/)
+
+Easy to install via brew:
 
 ```bash
 # install
-brew install --cask gimp # 👈 gimp: 2.10.32
-brew install --cask inkscape # 👈 inkscape: 1.2.1
+brew install --cask gimp # 👈 gimp: 2.10.32-1
+brew install --cask inkscape # 👈 inkscape: 1.2.2
 brew install --cask scribus # 👈 scribus: 1.5.8
 ```
 
 ## Fonts
-
 
 I never use serif fonts so I will choose this for the titles/heading
 
@@ -62,8 +63,6 @@ I never use serif fonts so I will choose this for the titles/heading
 - Kreon & Ubuntu
 - Libre Baskerville & Raleway
 - Merriweather & Source Sans Pro
-
-
 
 ## resources
 
