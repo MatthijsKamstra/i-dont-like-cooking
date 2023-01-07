@@ -31,6 +31,7 @@
 - [ ] search for photos and prices on jumbo.com (dutch supermarket)
   - [ ] https://www.jumbo.com/zoeken/?searchTerms=lasagnevellen
   - [ ] https://www.jumbo.com/producten/?searchType=keyword&searchTerms=lasagnebladen&offSet=0&sort=price%20asc
+- [ ] font size file
 
 ## receipts
 
