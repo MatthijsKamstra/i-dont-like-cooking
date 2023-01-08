@@ -1,0 +1,18 @@
+# Buy ingredients at Jumbo.com
+
+- [1 bloemkool, in kleine roosjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=bloemkool%20in%20kleine%20roosjes&offSet=0&sort=price%20asc)
+- [1 ui, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ui&offSet=0&sort=price%20asc)
+- [1 teentje knoflook, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=knoflook&offSet=0&sort=price%20asc)
+- [1 rode paprika, in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=rode%20paprika&offSet=0&sort=price%20asc)
+- [1 gele paprika, in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=gele%20paprika&offSet=0&sort=price%20asc)
+- [1 blikje kidneybonen, uitgelekt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=kidneybonen&offSet=0&sort=price%20asc)
+- [1 theelepel paprikapoeder](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=paprikapoeder&offSet=0&sort=price%20asc)
+- [1 theelepel komijnpoeder](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=komijnpoeder&offSet=0&sort=price%20asc)
+- [1 theelepel cumin](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=cumin&offSet=0&sort=price%20asc)
+- [4 wraps](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=4%20wraps&offSet=0&sort=price%20asc)
+- [250 gram geraspte kaas](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=geraspte%20kaas&offSet=0&sort=price%20asc)
+- [1 komkommer, in dunne plakjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=komkommer&offSet=0&sort=price%20asc)
+- [2 tomaten, in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=tomaten&offSet=0&sort=price%20asc)
+- [1 bakje crème fraîche](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=crème%20fraîche&offSet=0&sort=price%20asc)
+- [1 bakje guacamole](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=guacamole&offSet=0&sort=price%20asc)
+- [1 blikje mais](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=mais&offSet=0&sort=price%20asc)

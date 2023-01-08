@@ -1,0 +1,15 @@
+# Buy ingredients at Jumbo.com
+
+- [500 gram bloem](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=bloem&offSet=0&sort=price%20asc)
+- [250 ml water](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ml%20water&offSet=0&sort=price%20asc)
+- [1 eetlepel olie](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=eetlepel%20olie&offSet=0&sort=price%20asc)
+- [1 snufje zout](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=snufje%20zout&offSet=0&sort=price%20asc)
+- [500 gram aardappelen, geschild en in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=aardappelen%20geschild%20en&offSet=0&sort=price%20asc)
+- [1 ui, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ui&offSet=0&sort=price%20asc)
+- [1 teentje knoflook, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=knoflook&offSet=0&sort=price%20asc)
+- [2 eetlepels kerriepoeder](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=eetlepels%20kerriepoeder&offSet=0&sort=price%20asc)
+- [250 ml water](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ml%20water&offSet=0&sort=price%20asc)
+- [1 bouillonblokje (bijvoorbeeld kippenbouillon)](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=bouillonblokje%20(bijvoorbeeld%20kippenbouillon)&offSet=0&sort=price%20asc)
+- [1 theelepel tijm](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=tijm&offSet=0&sort=price%20asc)
+- [1 theelepel oregano](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=oregano&offSet=0&sort=price%20asc)
+- [Zout en peper naar smaak](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=Zout%20en%20peper%20naar%20smaak&offSet=0&sort=price%20asc)

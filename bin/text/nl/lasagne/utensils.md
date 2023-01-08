@@ -1,5 +1,5 @@
 ## Keukengerei:
 
-- oven
-- ovenschaal
-- wok/hapjes pan
+- Oven
+- Ovenschaal
+- Wok/hapjes pan

@@ -1,0 +1,16 @@
+# Buy ingredients at Jumbo.com
+
+- [500 gram kipfilet](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=kipfilet&offSet=0&sort=price%20asc)
+- [1 ui, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ui&offSet=0&sort=price%20asc)
+- [1 teentje knoflook, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=knoflook&offSet=0&sort=price%20asc)
+- [1 blikje kidneybonen, uitgelekt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=kidneybonen&offSet=0&sort=price%20asc)
+- [1 theelepel paprikapoeder](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=paprikapoeder&offSet=0&sort=price%20asc)
+- [1 theelepel komijnpoeder](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=komijnpoeder&offSet=0&sort=price%20asc)
+- [1 theelepel cumin](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=cumin&offSet=0&sort=price%20asc)
+- [6 wraps](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=wraps&offSet=0&sort=price%20asc)
+- [250 gram geraspte kaas](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=geraspte%20kaas&offSet=0&sort=price%20asc)
+- [1 komkommer, in dunne plakjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=komkommer&offSet=0&sort=price%20asc)
+- [2 tomaten, in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=tomaten&offSet=0&sort=price%20asc)
+- [1 bakje crème fraîche](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=crème%20fraîche&offSet=0&sort=price%20asc)
+- [1 bakje guacamole](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=guacamole&offSet=0&sort=price%20asc)
+- [1 blikje mais](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=mais&offSet=0&sort=price%20asc)

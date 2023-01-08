@@ -1,0 +1,16 @@
+# Buy ingredients at Jumbo.com
+
+- [500 gram gehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=gehakt&offSet=0&sort=price%20asc)
+- [1 ui, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ui&offSet=0&sort=price%20asc)
+- [1 teentje knoflook, fijngehakt](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=knoflook&offSet=0&sort=price%20asc)
+- [2 blikje tomatenpuree](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=tomatenpuree&offSet=0&sort=price%20asc)
+- [2 blikken gepelde tomaten](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=blikken%20gepelde%20tomaten&offSet=0&sort=price%20asc)
+- [250 ml water](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=ml%20water&offSet=0&sort=price%20asc)
+- [1 bouillonblokje (bijvoorbeeld kippenbouillon)](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=bouillonblokje%20(bijvoorbeeld%20kippenbouillon)&offSet=0&sort=price%20asc)
+- [1 theelepel tijm (stevige smaak, veel meer)](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=tijm%20(stevige%20smaak%20veel%20meer)&offSet=0&sort=price%20asc)
+- [1 theelepel oregano (stevige smaak, veel meer)](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=oregano%20(stevige%20smaak%20veel%20meer)&offSet=0&sort=price%20asc)
+- [250 gram lasagnevellen](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=lasagnevellen&offSet=0&sort=price%20asc)
+- [250 gram geraspte kaas](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=geraspte%20kaas&offSet=0&sort=price%20asc)
+- [1 courgette, in plakjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=courgette%20in%20plakjes&offSet=0&sort=price%20asc)
+- [1 aubergine, in plakjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=aubergine%20in%20plakjes&offSet=0&sort=price%20asc)
+- [1 rode paprika, in blokjes](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=rode%20paprika&offSet=0&sort=price%20asc)
