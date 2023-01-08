@@ -14,36 +14,36 @@
   - [x] eenpans gerecht pasta bolognese
   - [x] write via chatGPT
   - [x] write `nl`
-- [ ] HAXE
+- [x] HAXE
   - [x] analyse haxe over files
-  - [ ] data converteren naar
-  - [ ] tips
-  - [ ] receipt
-  - [ ] ingredient
-  - [ ] stappen plan
-- [ ] Genereer files voor docs
+  - [x] data converteren naar
+  - [x] tips
+  - [x] receipt
+  - [x] ingredient
+  - [x] stappen plan
+  - [x] misc
+  - [x] utensils
+  - [x] Genereer files voor docs
 - [x] DESIGN
   - [x] choose body font
   - [x] choose heading font
+  - [x] zoeken naar layouts (examples)
+  - [ ] design layout in Inkscape for Scribus
+  - [ ] create layout Scribus
+  - [ ] make layout basics scribus
+  - [ ] icons zoeken voor recept boek
   - [ ] icons voor ingredienten
   - [ ] icons voor handelingen
   - [ ] icons voor tijd
   - [ ] icons voor "keukengerei" utencils
-  - [ ] create layout Scribus
   - [ ] create icons Inkscape
   - [ ] create visuals Inkscape
   - [ ] create cover
   - [ ] create back
-  - [ ] zoeken naar layouts (examples)
-  - [ ] make layout basics scribus
-  - [ ] icons zoeken voor recept boek
 - [ ] use midjourney to create layout
-- [ ] proof read
-- [ ] convert `en`
-- [ ] send to printer
-- [ ] search for photos and prices on jumbo.com (dutch supermarket)
-  - [ ] https://www.jumbo.com/zoeken/?searchTerms=lasagnevellen
-  - [ ] https://www.jumbo.com/producten/?searchType=keyword&searchTerms=lasagnebladen&offSet=0&sort=price%20asc
+- [x] search for photos and prices on jumbo.com (dutch supermarket)
+  - [x] https://www.jumbo.com/zoeken/?searchTerms=lasagnevellen
+  - [x] https://www.jumbo.com/producten/?searchType=keyword&searchTerms=lasagnebladen&offSet=0&sort=price%20asc
 - [x] FONTS
   - [x] Playfair Display
   - [x] Lato
@@ -63,8 +63,10 @@
   - [x] a5 basic file scribus
   - [x] a6 basic file scribus
 - [ ] generate font size page on A4 with scetch-plus lib
-- [ ]
-- [ ]
+- [ ] convert `en`
+- [ ] PRINT
+  - [ ] proof read
+  - [ ] send to printer
 
 ## receipts
 

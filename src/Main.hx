@@ -125,6 +125,7 @@ class Main {
 
 	function analyzeReceipts() {
 		wip('analyzeReceipts();');
+
 		// get all files into docs
 		for (i in 0...fileArr.length) {
 			var file = fileArr[i];
@@ -137,13 +138,14 @@ class Main {
 			var path = Path.withoutExtension(file).split(Folder.ROOT_FOLDER)[1];
 			var f = '${Folder.BIN}/${path}';
 			Sys.command('mkdir -p ${f}');
-			warn(path);
+			// warn(path);
 
 			// read the file
 			var content = sys.io.File.getContent(file);
 			var linesArr = content.split('\n');
-			warn(linesArr.length);
+			// warn(linesArr.length);
 
+			// strip data from file
 			var _misc = '';
 			var _utensils = '';
 			var _ingredients = '';
@@ -182,6 +184,8 @@ class Main {
 				}
 			}
 
+			extractIngredients(_ingredients, f);
+
 			// save content
 			SaveFile.out(f + '/misc.md', _misc.trim());
 			SaveFile.out(f + '/utensils.md', _utensils.trim());
@@ -189,6 +193,53 @@ class Main {
 			SaveFile.out(f + '/preparation.md', _preparation.trim());
 			SaveFile.out(f + '/tips.md', _tips.trim());
 		}
+	}
+
+	function extractIngredients(str:String, path:String) {
+		info('extractIngredients');
+
+		var md = '# Buy ingredients at Jumbo.com\n\n';
+		var stripArr = [
+			//
+			'- ',
+			',',
+			'in blokjes',
+			'in dunne plakjes',
+			'uitgelekt',
+			'teentje',
+			'fijngehakt',
+			'500',
+			'250',
+			'2',
+			'6',
+			'1',
+			'gram',
+			'blikje',
+			'bakje',
+			'theelepel'
+		];
+		var lineArr = str.split('\n');
+
+		for (i in 0...lineArr.length) {
+			var line = lineArr[i];
+			var original = line.replace('- ', '');
+			if (line.trim() == '') {
+				continue;
+			}
+			if (line.indexOf('## ') != -1) {
+				continue;
+			}
+
+			for (i in 0...stripArr.length) {
+				var strip = stripArr[i];
+				line = line.replace(strip, '');
+			}
+
+			// md += '${line.trim().replace(' ', '%20')}\n';
+			md += '- [${original.trim()}](https://www.jumbo.com/producten/?searchType=keyword&searchTerms=${line.trim().replace(' ', '%20')}&offSet=0&sort=price%20asc)\n';
+		}
+
+		SaveFile.out(path + '/_buy.md', md);
 	}
 
 	/**
