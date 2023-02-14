@@ -57,6 +57,12 @@ brew install --cask scribus # 👈 scribus: 1.5.8
 
 I never use serif fonts so I will choose this for the titles/heading
 
+- title: Kreon
+- or title: Playfair Display
+- body: Lato
+
+possible combinations:
+
 - Playfair Display & Lato
 - Playfair Display & Source Sans Pro
 - Philosopher & Mulish
